@@ -97,7 +97,7 @@ const browser = new Builder()
         goLEFT(2);
         goUP(2);
         goRIGHT(4);
-        goUP(4);//treasure
+        goUP(4);
         goLEFT(2);
         goUP(6)
         goLEFT(3);
